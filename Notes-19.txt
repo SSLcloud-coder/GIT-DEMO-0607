@@ -1,0 +1,132 @@
+Introduction
+1. Get Started with Red Hat Enterprise Linux
+2. Access the Command Line
+3. Manage Files from the Command Line
+4. Get Help in Red Hat Enterprise Linux
+5. Create, View, and Edit Text Files
+6. Manage Local Users and Groups
+7. Control Access to Files
+8. Monitor and Manage Linux Processes
+9. Control Services and Daemons
+10. Configure and Secure SSH
+11. Analyze and Store Logs
+12. Manage Networking
+13. Archive and Transfer Files
+14. Install and Update Software Packages
+15. Access Linux File Systems
+16. Analyze Servers and Get Support
+
+
+Introduction to Git
+Git Basics
+Git Installation
+Git Commands
+Git and GitHub
+Git Collaborating
+Git and GitHub Deployment
+Git Advanced
+Internal Working of Git
+Git Troubleshooting 
+
+Managing Azure Subscriptions and ResourceGroups
+Azure Virtual Networks and NetworkSecurity
+Overview of Azure Virtual Machines
+Overview of Azure Storage ServicesSecure and Manage Azure StorageConfigure 
+Virtual Machines for HighAvailability
+Network Traffic Distribution and Connectivity
+Integrate On-premises Networkwith Azure Virtual Network
+Monitoring and Access
+Management for Cloud Resources
+Manage Azure Active Directory(AD)Implementing and ManagingHybrid Identities
+
+What is Infrastructure as Code with Terraform 
+Manage any infrastructure 
+Standardize your deployment workflow 
+Track your infrastructure Terraform module output
+Terraform state 
+Azure key vault integration 
+Creating VM images 
+Terraform registry 
+Azure Virtual Machines Azure CLI 
+
+
+Containerization
+Namespaces
+DockerDocker Architecture
+Container Lifecycle
+Docker CLI
+Port Binding
+Detached and Foreground Mode
+Dockerfile
+Dockerfile Instructions
+Docker Image
+Docker Registry
+Container Storage
+Volumes
+Docker Compose
+Docker Swarm
+
+
+
+Introduction to Container Orchestration
+Kubernetes Core Concepts
+Understanding Pods
+ReplicaSet and Replication Controller
+Deployments
+DaemonSets
+Rolling Updates and Rollbacks
+Scaling Application
+Services
+Persistent Storage in Kubernetes
+Primitives for PersistentVolumeClaims
+Secrets and ConfigMaps
+Headless Services
+StatefulSets
+Helm Charts
+
+
+●●●●
+Introduction to Prometheus and Grafana
+Prometheus and Grafana Setup
+Monitoring using Prometheus
+Dashboard Visualization using Grafana
+Creating a Dashboard to monitor the Pipeline
+
+
+
+Cloud Computing Training For Global Success
+
+Standout features of this program
+
+Gen AI & DevOps Infusion
+
+Certified Instructors
+
+Real-world Projects
+
+Comprehensive Cloud Tools
+
+Customised Tracks
+
+Placement Assistance
+
+Get your hands cloudy with Hands-on Labs
+
+Enjoy cloud learning with A Cloud Guru
+
+
+
+*Notice:
+
+Join tomorrow at 8:00 PM IST for an Azure automation session on:** 
+
+1) GIT Cloning and Branching   
+2) Private Repo Setup   
+3) GIT Bash CLI Setup at Linux 
+4) GIT Management and Deployment from Server  
+
+Don’t miss it—If you’re serious about high-paying jobs, this is for you.
+
+Recording Link : https://drive.google.com/drive/folders/1DA6O_zJhePW4F7OEdLtYoyIkcm5SWPc4?usp=sharing
+Notes Link: https://github.com/SSLcloud-coder/Batch-12
+Class Link : https://meet.google.com/pdh-dyjq-eaz?authuser=0
